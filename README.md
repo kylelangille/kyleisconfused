@@ -1,4 +1,4 @@
-# KYLE LANGILLE
+# Kyle Langille
 
 ## Who am I?
 
