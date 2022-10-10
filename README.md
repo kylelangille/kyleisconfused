@@ -1,8 +1,6 @@
-# Kyle Langille
+## 🤠 Howdy
 
-## Who am I?
-
-I'm a budding web developer, aiming to be a full-stack dev. I'm currently going the self-taught route.
+I'm Kyle, a self-taught front-end web developer. I'll be attendning Concordia University's full-stack Web Development Bootcamp in Janurary 2023.
 
 ## 👨‍💻 Technologies
 
