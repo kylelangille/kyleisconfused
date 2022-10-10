@@ -1,6 +1,6 @@
 ## 🤠 Howdy
 
-I'm Kyle, a self-taught front-end web developer. I'll be attendning Concordia University's full-stack Web Development Bootcamp in Janurary 2023.
+I'm Kyle, a self-taught front-end web developer. I'll be attending Concordia University's full-stack Web Development Bootcamp in January 2023.
 
 ## 👨‍💻 Technologies
 
