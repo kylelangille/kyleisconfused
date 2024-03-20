@@ -1,6 +1,6 @@
 ## 🤠 Howdy
 
-I'm Kyle, a budding full-stack web developer. I am currently attending Concordia University's full-stack Web Development Bootcamp.
+I'm Kyle, a budding full-stack web developer. Graduate of Concordia University's full-stack Web Development Bootcamp and lifelong learner.
 
 ## 👨‍💻 Technologies
 
